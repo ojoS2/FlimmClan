@@ -1,0 +1,52 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\title{Surviving the early stages}
+\author{ojo}
+\date{January 2021}
+
+\begin{document}
+
+\maketitle
+
+
+Hi dude, if you are reading this then you are a piece of the best clan in game (FlimmNest of course) and are having troubles in the early stages or wish to do it fast making the most of it. It doesn't really matter your objective for what follows though, but is advisable that you know what you want beforehand.
+
+We have separated the sections in easy, self-explanatory sections: "making money", "making clearance points" and making clan loot" that separate further for simplicity of exposure. 
+
+We emphasize that nothing you find here is better or substitutes questions and discussions on clan-chat. Also help us to improve this material with feedback, suggestions and giving info in clan chat so we can update it and help more people. Have fun reading it and have fun in-game.  
+
+
+\section{Making money}
+
+Let's talk a little bit about the number one question in everyone's mind in the early stages, what are credits (cr), what are galactic standards (GS), what is iridium (iri) and what are they uses? 
+
+Credits are the most common upgraded-oriented monetary value in game. With credits you may buy white ships, white weapons, ammo, modules, engine pieces, hull pieces, etc. You can also upgrade the equipment you already have. Also, as you keep more stuff, you will need lots of credits to buy more storage slots.
+
+Galactic standards is the currency used in the [Trade] window, to buy golden ships, and golden equipment. 
+
+Iridium is a currency/material that is used to warp to different regions on the map, to buy blueprints for special resources, weapons and modules and to buy containers in the store. 
+
+With these technical details behind us, let's talk about ways of earning them.
+
+\subsection{Earning credits}
+
+Credits earning is made in basically two ways for low level clearance: In open space (OS) mining asteroids, or in pVe battles. 
+
+To go to Open Space you must have clearance lvl 4: [Battle]>[Map]>[select a region]. Once in OS there are many new things you may encounter, but we will pay attention here to the asteroids. The asteroids are piece or rocks floating around that the game differentiate and you can destroy with conventional weapons. Destroying them you get loot that varies from credits to iridium and resources.
+
+
+The name of the asteroid will frequently come in the form '[prefix 1] [prefix 2] asteroid'. [prefix 1] indicates the probability to get high level or rare loot, as "alien capacitors"(20 iridium), monocrystals and containers with 1 million credits. The options for [prefix 1] from the less likely to give something great to the more likely are [poor], [], [rich]. On the other hand, [prefix 2] deals with the nature of the loot you are most likely to get from the mining. The observed option are [graphite], [silicon], [crystal], [],  ( vanadium asteroids and osmium asteroid were not observed, maybe because they are rare resources or the game don't have any). That nomenclature means that you will get mostly the resource written when you mine it. The option [] is a special case as we have a duplicity here. There are two [rich] [] asteroid in game, one covered in green and red crystals that is more likely to get you an 'alien capacitor' and credits prizes of the sum of 270k, but you may also find one with metallic golden pieces and round shapes. These asteroids are more likely to give you monocrystals and 1 m credits prizes ( highest prize I have won was 1,5 m ). 
+
+now we have set the info we may get to business. Mining is a task where you shot an asteroid with a weapon of your choice until the asteroid is destroyed and a great part of your earnings depend on how well you do it. Depending on the overheating bar status, the yield is categorized in [failed, asteroid destroyed], [very poor yield] (overheating $0\%$-$20\%$), [poor yield] (overheating $20\%$-$40\%$), [normal yield] (overheating $40\%$-$60\%$), [good yield] (overheating $60\%$-$80\%$), [great yield] (overheating $80\%$-$99\%$). The most overheated the asteroid, the better the prize you get but also harder is to not destroy the asteroid.
+
+
+
+One may think that credits farming is all about the mining rich asteroids...but this is not entirely true. For starters, rich asteroids are rare and hard to mine so is difficult to have great amounts of credits coming from them. Nevertheless, as you destroy enemies in OS and have normal+ yields, the game awards you with more asteroids, so if you mine asteroids is better for have time allocated.     
+
+We end this section with an estimate of how much one may make mining asteroids and the better weapons to do so. My best personal experience was getting 10 million credits in 17 minutes raid changing regions and using a laser based thermal weapons. The best weapons to use in mining are the ones with rapid (or continuous) firing rate, don't use low firing hate weapons or torpedoes it will get you poor yields. Also, if you are in a engineer ship, remember to call back your drones pressing [f] two times before getting near an asteroid.     
+
+
+
+\end{document}
+
